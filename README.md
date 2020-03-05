@@ -3,7 +3,7 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 [Curs de FreeCAD de Obi-Juan:](https://www.youtube.com/playlist?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf)
 
-<iframe width="1000" height="500" src="https://www.elnacional.cat/" sandbox="allow-same-origin"></iframe>
+<iframe width="1000" height="500" src="https://www.youtube.com/playlist?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf" sandbox="allow-same-origin"></iframe>
 
 Proves de iFrames:
 
