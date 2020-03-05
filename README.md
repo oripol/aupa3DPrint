@@ -5,13 +5,8 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 <iframe width="1000" height="500" src="https://www.youtube.com/embed/videoseries?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Proves de iFrames:
+La meva primera peça:
 
-- [INICI](https://www.youtube.com/watch?v=2_DbFzFV9D4&list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf) 
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/2_DbFzFV9D4"></iframe>
 
-- [BOX (Hello word...)](https://www.youtube.com/watch?v=ICHc7Z4vXXQ&list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf&index=2)
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/ICHc7Z4vXXQ"></iframe>
+<iframe width="1000" height="500" src="https://github.com/oripol/aupa3DPrint/blob/master/unifTomo.PNG"></iframe>
 
-- [Propietats de visualizació)](https://www.youtube.com/watch?v=dOdAtUmgW4k&list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf&index=3)
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/dOdAtUmgW4k"></iframe>
