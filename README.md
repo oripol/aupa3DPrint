@@ -12,7 +12,7 @@ La meva primera peça:
 or 
 
 <iframe frameborder="0" scrolling="no" width="100%" height="100%"
-   src="https://github.com/oripol/aupa3DPrint/blob/master/unifTomo.PNG" name="imgbox" id="imgbox">
+   src="https://github.com/oripol/aupa3DPrint/blob/master/unifTomo.PNG?raw=true" name="imgbox" id="imgbox">
    <p>iframes are not supported by your browser.</p>
 </iframe>
 
