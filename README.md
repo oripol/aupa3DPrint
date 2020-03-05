@@ -7,4 +7,4 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 La meva primera peça:
 
-![El tipic lieuagfsuf](https://github.com/oripol/aupa3DPrint/blob/master/unifTomo.PNG)
+![El tipic lieuagfsuf](./unifTomo.PNG)
