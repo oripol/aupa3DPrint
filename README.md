@@ -1,5 +1,5 @@
 # aupa3DPrint
-Com iniciar-se al FreeCad, impressió 3D...
+Com iniciar-se al FreeCad, impressió 3D... (https://oripol.github.io/aupa3DPrint/)
 
 - [INICI](https://www.youtube.com/watch?v=2_DbFzFV9D4&list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf) 
 <iframe width="1000" height="500" src="https://www.youtube.com/embed/2_DbFzFV9D4"></iframe>
