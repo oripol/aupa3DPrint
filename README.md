@@ -8,3 +8,7 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 Adaptador per al maniqui d'uniformitat tomogràfica:
 
 ![El tipic lieuagfsuf](./unifTomo.PNG)
+
+
+<iframe width="1000" height="500" src="https://www.youtube.com/embed/QeiJPYGxTxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
