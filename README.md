@@ -7,11 +7,11 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 Adaptador per al maniqui d'uniformitat tomogràfica:
 
-[Unif tomo](./uniftomo.stl)
+[Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo.stl)
 
-[Brochure Ultimaker S5](./UltimakerS5.pdf)
+[Brochure Ultimaker S5](https://github.com/oripol/aupa3DPrint/blob/master/UltimakerS5.pdf)
 
-[Brochure Ultimaker S5 Pro Bundle](./UltimakerS5ProBundle.pdf)
+[Brochure Ultimaker S5 Pro Bundle](https://github.com/oripol/aupa3DPrint/blob/master/UltimakerS5ProBundle.pdf)
 
 <iframe width="1000" height="500" src="https://www.youtube.com/embed/QeiJPYGxTxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
