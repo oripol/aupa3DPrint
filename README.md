@@ -11,7 +11,9 @@ Adaptador per al maniqui d'uniformitat tomogràfica:
 
 [Materials BCN](https://github.com/oripol/aupa3DPrint/blob/master/White-Paper-BCN3D-Guide-fiber-filled-materials.pdf)
 
-BCN3D-printer-comparison-sheet.pdf
+[comparision BCN](https://github.com/oripol/aupa3DPrint/blob/master/BCN3D-printer-comparison-sheet.pdf)
+
+[Brochure Epsilon BCN](https://github.com/oripol/aupa3DPrint/blob/master/Datasheet-Epsilon-EN.pdf)
 
 [Brochure Ultimaker S5](https://github.com/oripol/aupa3DPrint/blob/master/UltimakerS5.pdf)
 
