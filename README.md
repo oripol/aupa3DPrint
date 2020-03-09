@@ -7,7 +7,7 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 Adaptador per al maniqui d'uniformitat tomogràfica:
 
-[Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo.stl)
+[Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo_v2.stl)
 
 [Materials BCN](https://github.com/oripol/aupa3DPrint/blob/master/White-Paper-BCN3D-Guide-fiber-filled-materials.pdf)
 
