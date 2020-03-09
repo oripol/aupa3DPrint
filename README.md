@@ -9,6 +9,8 @@ Adaptador per al maniqui d'uniformitat tomogràfica:
 
 [Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo.stl)
 
+[Materials BCN](https://github.com/oripol/aupa3DPrint/blob/master/White-Paper-BCN3D-Guide-fiber-filled-materials.pdf)
+
 [Brochure Ultimaker S5](https://github.com/oripol/aupa3DPrint/blob/master/UltimakerS5.pdf)
 
 [Brochure Ultimaker S5 Pro Bundle](https://github.com/oripol/aupa3DPrint/blob/master/UltimakerS5ProBundle.pdf)
