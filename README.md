@@ -9,6 +9,10 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 [Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo_v3.stl)
 
+# Columna lumbar:
+
+[Lumbar Spine](https://github.com/oripol/aupa3DPrint/blob/master/lumbar.stl)
+
 # Com passar de DICOM a STL (amb 3D Slicer)
 
 1. Exportem el CT i les estructures a DICOM. 
