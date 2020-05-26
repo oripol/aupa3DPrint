@@ -7,7 +7,7 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 # Adaptador per al maniqui d'uniformitat tomogràfica:
 
-[Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomoSEP.stl)
+[Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo_v3.stl)
 
 # Com passar de DICOM a STL (amb 3D Slicer)
 
