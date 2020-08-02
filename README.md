@@ -9,6 +9,8 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 [Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo_v3.stl)
 
+# Adaptador per al Detector Microdiamond i la cuba petita:
+
 [SupotMicroDiamond](https://github.com/oripol/aupa3DPrint/blob/master/suportMicroDiamond.stl)
 
 # Columna lumbar:
