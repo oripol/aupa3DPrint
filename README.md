@@ -17,6 +17,10 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 [Lumbar Spine](https://github.com/oripol/aupa3DPrint/blob/master/lumbar.stl)
 
+# FISTULATOR:
+
+[Lumbar Spine](https://github.com/oripol/aupa3DPrint/blob/master/FISTULATOR_v0.stl)
+
 # Com passar de DICOM a STL (amb 3D Slicer)
 
 1. Exportem el CT i les estructures a DICOM. 
