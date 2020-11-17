@@ -9,6 +9,10 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 [Unif tomo](https://github.com/oripol/aupa3DPrint/blob/master/uniftomo_v3.stl)
 
+# Esquelet d'un porc a partir de la TC:
+
+[Segmentation_Pig Bones](https://github.com/oripol/aupa3DPrint/blob/master/Segmentation_Bones.stl)
+
 # Adaptador per al Detector Microdiamond i la cuba petita:
 
 [SupotMicroDiamond](https://github.com/oripol/aupa3DPrint/blob/master/suportMicroDiamond_v2.stl)
