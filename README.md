@@ -23,13 +23,13 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 # FISTULA MATTERS:
 
-[FISTULA H20 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor20-50-10.stl)
+- [FISTULA H20 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor20-50-10.stl)
 
-[FISTULA H30 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor30-50-10.stl)
+- [FISTULA H30 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor30-50-10.stl)
 
-[FISTULA H40 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor40-50-10.stl)
+- [FISTULA H40 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor40-50-10.stl)
 
-[FISTULA H50 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor50-50-10.stl)
+- [FISTULA H50 W50 B10](https://github.com/oripol/aupa3DPrint/blob/master/Fistulartor50-50-10.stl)
 
 
 # Com passar de DICOM a STL (amb 3D Slicer)
