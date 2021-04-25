@@ -17,9 +17,9 @@ Com iniciar-se al FreeCAD, impressió 3D... (https://oripol.github.io/aupa3DPrin
 
 [SupotMicroDiamond](https://github.com/oripol/aupa3DPrint/blob/master/suportMicroDiamond_v2.stl)
 
-# Columna lumbar:
+# Vertebra lumbar de porc (prova):
 
-[Lumbar Spine](https://github.com/oripol/aupa3DPrint/blob/master/lumbar.stl)
+[Lumbar Pig Spine](https://github.com/oripol/aupa3DPrint/blob/master/LumbarPorquet.stl)
 
 # FISTULA MATTERS:
 
